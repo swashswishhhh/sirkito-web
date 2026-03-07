@@ -35,7 +35,7 @@ export default function Footer() {
           <div>
             <div className="flex items-center gap-3 mb-4">
               <Image
-                src="/images/sirkitoLogo.jpeg"
+                src="/images/sirkitoLogo.jpg"
                 alt="Sirkito Electrical Builders"
                 width={45}
                 height={45}
